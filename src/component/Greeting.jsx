@@ -8,7 +8,7 @@ export default function Greeting() {
   const dispatch = useDispatch();
 
   async function fetchGreeting() {
-    await fetch('http://localhost:4000/greeting/index')
+    await fetch('http://localhost:3000/greeting/index')
             .then(res => res.json())
             .then(data => dispatch(getGreeting(data.text)) )
             .catch( err => console.log(err))
