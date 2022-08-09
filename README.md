@@ -39,7 +39,7 @@ For tracking linters errors locally, you need to follow these steps:
 👤 **Bushra**
 
 - GitHub:
-    - [Bushra](https://www.github.com/samiullahbahadur)
+    - [Samiullah](https://www.github.com/samiullahbahadur)
 
 ## 🤝 Contributing
 
